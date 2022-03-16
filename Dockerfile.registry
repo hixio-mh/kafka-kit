@@ -1,4 +1,4 @@
-from ubuntu:16.04
+from ubuntu:xenial-20210416
 
 # Install pre-reqs.
 RUN apt-get update >/dev/null
